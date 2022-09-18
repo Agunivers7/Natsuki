@@ -1,5 +1,7 @@
 <h1 align="center"><b><b>❤️ Natsuki ❤️</b></b></h1>
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agunivers7/Natsuki)
 ##  Fixed I'm [Natsuki](https://t.me/TheNatsukibot) 
  
 ## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is `private`. 
