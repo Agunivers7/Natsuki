@@ -18,14 +18,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "buildpacks": [
-    {
-      "url": "https://github.com/Agunivers7/heroku-buildpack"
-    },
-    {
-      "url": "heroku/python"
-    }     
-  ],      
+   "buildpacks": [],      
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
