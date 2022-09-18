@@ -20,7 +20,7 @@
    ],
    "buildpacks": [
     {
-      "url": "https://github.com/weeed0y/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/Agunivers7/heroku-buildpack"
     },
     {
       "url": "heroku/python"
