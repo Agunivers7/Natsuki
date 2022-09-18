@@ -18,11 +18,14 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "buildpacks": [],
+   "buildpacks": [
+    {
+      "url": "https://github.com/weeed0y/heroku-buildpack-ffmpeg-latest"
+    },
     {
       "url": "heroku/python"
     }     
-  ,      
+  ],      
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
@@ -178,5 +181,5 @@
       "Natsuki"
    ],
    "name": "Natsuki",
-   "repository": "https://github.com/Agunivers7/Natsuki"
+   "repository": "https://github.com/weeed0y/Natsuki"
 }
